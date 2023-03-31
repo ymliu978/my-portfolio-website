@@ -9,7 +9,7 @@ export default {
     "I'm Yamiao Liu",
 
   socials: [
-    { title: "Resume", link: "https://drive.google.com/file/d/1zLgexcaHi6KTGygd0hJnvHSmpyJT2K-C/view?usp=sharing" },
+    { title: "Resume", link: "https://drive.google.com/file/d/1ienkLT6xw4ePzLytimlHfutMDrVqjbg0/view?usp=sharing" },
     { title: "Github", link: "https://github.com/ymliu978" },
     { title: "LinkedIn", link: "https://www.linkedin.com/in/yamiaoliu/" },
     { title: "Instagram", link: "https://www.instagram.com/ymliu978/" },
